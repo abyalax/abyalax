@@ -39,9 +39,8 @@ I’m also passionate about **productivity hacks** and **minimalism**.
 ---
 
 ### 🏆 Achievements:
-- Successfully launched and deployed multiple projects on **Vercel** and **Netlify**.
-- Helped optimize **server performance** for **real-time applications** using **Prisma**.
-- Collaborated on projects that were featured on **Product Hunt** and gained significant traction.
+- Completed basic problem-solving challenges on **HackerRank** to enhance coding skills.
+- Earned certifications from **Dicoding** in **Frontend Development** and **Backend Development**.
 
 ---
 
