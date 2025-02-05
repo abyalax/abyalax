@@ -1,16 +1,63 @@
-## Hi there 👋
+# **Hi there** 👋
 
-<!--
-**abyalax/abyalax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub profile! 👋
 
-Here are some ideas to get you started:
+I'm a passionate developer eager to learn and grow. Here's a little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧐 **Looking for remote internship opportunities** in software development, particularly with a **Node.js tech stack**.
+
+### 🌱 Currently learning and using:
+- **TypeScript** for better code quality.
+- **Tech Stack** at needed projects.
+- **Machine Learning** and **AI integrations** for future projects.
+
+### 👯 **Open to collaboration** on:
+- **Fullstack Monolith**
+- **Frontend Development** (React, Next.js)
+- **Backend Architecture** (Node.js, Express, Hapi, and NestJS for Enterprise)
+- **Data Analysis with Notebook Python**
+
+### 🤔 Seeking help with:
+- **Optimizing database queries**
+- **Code splitting** in React apps
+- **Backend development** for various projects
+
+### 💬 Feel free to ask me about:
+- **React**, **Next.js**, **Tailwind CSS**, **Prisma**, **NestJS**
+
+### 📫 Reach me at:
+- **[LinkedIn](https://www.linkedin.com/in/abyalaxx3541241-profile/)**
+- **Email**: [abyalaxx@gmail.com](mailto:abyalaxx@gmail.com)
+
+### 😄 Pronouns: He/Him
+
+### ⚡ Fun fact:  
+I used to be a **music enthusiast** and still love listening to music while coding! 🎧  
+I’m also passionate about **productivity hacks** and **minimalism**.
+
+
+---
+
+### 🏆 Achievements:
+- Successfully launched and deployed multiple projects on **Vercel** and **Netlify**.
+- Helped optimize **server performance** for **real-time applications** using **Prisma**.
+- Collaborated on projects that were featured on **Product Hunt** and gained significant traction.
+
+---
+
+### 📈 GitHub Stats:
+
+![Abyalax's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abyalax&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+
+### 🔥 GitHub Streaks:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abyalax)
+
+---
+
+### 🌍 Let’s Connect:
+- **Whatsapp**: [Visit My WhatsApp](https://wa.link/gntxu3)
+- **LinkedIn**: [Visit My Linkedin](https://www.linkedin.com/in/abyalaxx3541241-profile/)
+- **Website**: [Visit My Web Profile](https://profile-abya.vercel.app/)
+
+Feel free to explore my repositories and connect with me. Let’s build something amazing together! 💻🚀
