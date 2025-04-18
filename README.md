@@ -8,6 +8,8 @@
 #### 🤔 I’m looking for help with optimizing **database queries**, **code splitting** in React apps, and **Developing Backend** for some projects.
 #### 💬 Ask me about **React**, **Next.js**, **Tailwind CSS**, **Prisma**, or **Nest JS for Backend Enterprise**!
 #### 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abyalaxx3541241-profile/)** or via **email** at **abyalaxx@gmail.com**.  
+
+
 Feel free to message me for collaboration or just to chat about tech!
 #### 😄 Pronouns: He/Him
 #### ⚡ Fun fact: I used to be a **music enthusiast** before diving into tech, and I still listen to music while coding! 🎧  
@@ -16,20 +18,13 @@ I also love learning about new **productivity hacks** and **minimalism**.
 
 ### 📚 My Tech Stack:
 - **Frontend**: React, Next.js, Tailwind CSS, ShadCN UI and Other CSS Framework.
-- **Backend**: Node.js, Express, Hapi, Nest JS, Prisma, Drizzle ORM, PostgreSQL and MongoDB 
+- **Backend**: Node.js, Express, Hapi, Nest JS, MySQL2, Prisma, Drizzle ORM, PostgreSQL and MongoDB 
 - **Tools**: Git, GitHub, Postman, Visual Studio Code  
-- **Languages**: JavaScript, TypeScript, Python, Java and SQL  
+- **Languages**: JavaScript, TypeScript, Python, Java and SQL  ( fluent at typescript )
 
 ### 🚀 Currently Studying On:
 - Universitas Islam Kadiri-Kediri major Computer Engineering 
 - Most free tier bootcamp
-
----
-
-### 🏆 Achievements:
-- Successfully launched and deployed multiple projects on **Vercel** and **Netlify**.
-- Helped optimize **server performance** for **real-time applications** using **Prisma**.
-- Collaborated on projects that were featured on **Product Hunt** and gained significant traction.
 
 ---
 
