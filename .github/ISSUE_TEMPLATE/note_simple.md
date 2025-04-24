@@ -1,7 +1,7 @@
 ---
 name: Simply Note
 about: Template Simple
-title: Judul
+title: 
 labels: [note]
 assignees: ''
 ---

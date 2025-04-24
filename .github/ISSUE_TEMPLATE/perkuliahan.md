@@ -1,26 +1,19 @@
 ---
 name: Perkuliahan
-about: Template untuk membuat note perkuliahan
-title: Judul
+about: Template untuk membuat note tugas
+title: 📚
 labels: [perkuliahan]
 assignees: ''
 ---
 
-## 📚 [Mata Kuliah] - [Bab]
+## 📚 [Mata Kuliah]
 Tanggal: [DD-MM-YYYY]  
-Dosen: [Nama-Dosen]  
-Pertemuan: [Nomor-Pertemuan]  
+Deadline: [Nomor-Pertemuan]  
 
 ---
 
 ### 📝 Tugas 
 Keterangan Tugas
-
----
-
-### ✍️ Note Materi
-- Poin utama 1
-- Poin utama 2
 
 ---
 
