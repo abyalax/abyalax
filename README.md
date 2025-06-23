@@ -1,30 +1,34 @@
 # **Hi there** 👋
 
-### Welcome to my GitHub profile! I'm a passionate developer always exploring new technologies and improving my skills. Here’s a bit about me:
-#### 🧐 I'm Looking for **remote internship opportunities** at software development with match to node js tech stack.
-#### I'm also experimenting with **Cloudinary** and **Drizzle ORM** for media management and database querying.
-#### 🌱 I’m currently like using **TypeScript** to improve my code quality, and diving into **machine learning** and **AI integrations** for future projects.
-#### 👯 I’m looking to collaborate on **open-source projects**, especially those involving **API development**, **Frontend Development**, and **Backend Architecture**.
-#### 🤔 I’m looking for help with optimizing **database queries**, **code splitting** in React apps, and **Developing Backend** for some projects.
-#### 💬 Ask me about **React**, **Next.js**, **Tailwind CSS**, **Prisma**, or **Nest JS for Backend Enterprise**!
-#### 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abyalaxx3541241-profile/)** or via **email** at **abyalaxx@gmail.com**.  
-
-
 Feel free to message me for collaboration or just to chat about tech!
 #### 😄 Pronouns: He/Him
 #### ⚡ Fun fact: I used to be a **music enthusiast** before diving into tech, and I still listen to music while coding! 🎧  
 I also love learning about new **productivity hacks** and **minimalism**.
 
+<p><em>Tools and technologies:</em></p>
 
-### 📚 My Tech Stack:
-- **Frontend**: React, Next.js, Tailwind CSS, ShadCN UI and Other CSS Framework.
-- **Backend**: Node.js, Express, Hapi, Nest JS, MySQL2, Prisma, Drizzle ORM, PostgreSQL and MongoDB 
-- **Tools**: Git, GitHub, Postman, Visual Studio Code  
-- **Languages**: JavaScript, TypeScript, Python, Java and SQL  ( fluent at typescript )
+<p>
+  <img src="https://img.shields.io/badge/npm-red?style=flat-square&logo=npm">
+  <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Chart.js-f5788d?style=flat-square&logo=chartdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/JSON-black?style=flat-square&logo=json">
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+</p>
 
-### 🚀 Currently Studying On:
-- Universitas Islam Kadiri-Kediri major Computer Engineering 
-- Most free tier bootcamp
+<p><em>Architecture :</em></p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST-API-42a5f5?style=flat-square" alt="REST">
+  <img src="https://img.shields.io/badge/MVC-Model_View_Controller-4caf50?style=flat-square" alt="MVC">
+</p>
+
+---
+
+<img alt="last commit" src="https://img.shields.io/github/last-commit/abyalax/Project-Point-Of-Sales?style=flat-square">
+<img alt="nodejs" src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs">
 
 ---
 
