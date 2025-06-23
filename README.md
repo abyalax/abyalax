@@ -40,6 +40,11 @@ I also love learning about new **productivity hacks** and **minimalism**.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abyalax)
 
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyalax&layout=compact&langs_count=10&theme=tokyonight)
+
+
 ---
 
 ### 🌍 Let’s Connect:
